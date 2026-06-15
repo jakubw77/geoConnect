@@ -1,0 +1,6 @@
+{
+  "name": "Location Buddy",
+  "description": "Calculate GPS-based driving distances and routes to friends sharing their Google Maps location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
